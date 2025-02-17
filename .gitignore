@@ -1,0 +1,9 @@
+node_modules/
+.claude
+npm-debug.log*
+CLAUDE.md
+*.log
+.env
+.DS_Store
+dist/
+coverage/
